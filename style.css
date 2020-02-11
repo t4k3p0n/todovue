@@ -1,0 +1,25 @@
+ul,li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul {
+    margin-bottom:15px;
+}
+
+li div {
+    position: relative;
+    max-width: 400px;
+    width: 100%;
+    padding-right: 44px;
+    box-sizing: border-box;
+    white-space: pre-line;
+    word-break: break-all;
+}
+
+li button {
+    position: absolute;
+    top: 1px;
+    right: 0;
+}
